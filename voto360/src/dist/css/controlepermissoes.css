@@ -1,0 +1,25 @@
+.outter-div {
+    display: flex;
+    flex-direction: row !important;
+    align-self: center;
+    width: 80%;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner-panel {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+}
+
+.control-panel {
+    width: 40%;
+    
+}

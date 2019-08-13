@@ -1,0 +1,9 @@
+.buttonContainer {
+  width: 100%;
+  text-align: right;
+  margin: 10px 0;
+}
+
+.buttonContainer--button-default {
+  margin: 0 10px;
+}

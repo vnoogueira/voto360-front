@@ -1,0 +1,57 @@
+.tabsLogin {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+  align-items: center;
+  justify-content: center;
+  /* height: 180px; */
+}
+
+.tabsInside {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
+
+.paddingTop20 {
+  padding-top: 20px;
+}
+
+.marginBottom20 {
+  /* padding-bottom: 20px; */
+  margin-bottom: 20px;
+}
+
+.marginTop20 {
+  margin-top: 20px;
+}
+
+.radioButtonGroup {
+  padding-top: 10px;
+  display: flex;
+  flex-direction: row;
+  width: 60%;
+  align-items: center;
+  align-content: center;
+}
+
+.forgot-password-btn {
+    background:none!important;
+     color:inherit;
+     border:none; 
+     padding:0!important;
+     font: inherit;
+     /*border is optional*/
+     /* border-bottom:1px solid #444;  */
+     cursor: pointer;
+}
+
+.send-login-container {
+  display: flex;
+  flex-direction: column;
+  /* background-color: red; */
+  /* width: 40%; */
+}
